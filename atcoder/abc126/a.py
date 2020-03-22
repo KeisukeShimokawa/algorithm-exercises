@@ -5,4 +5,4 @@ S = list(input())
 
 S[K - 1] = S[K - 1].lower()
 
-print(''.json(S))
+print(''.join(S))
